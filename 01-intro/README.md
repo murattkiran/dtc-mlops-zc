@@ -54,3 +54,5 @@ The MLOps Maturity Model provides a framework to evaluate and enhance the capabi
 It's important to note that achieving a high maturity level is not always necessary for every organization. Higher maturity levels come with additional costs and complexity, and the optimal level of MLOps maturity depends on the specific needs and resources of the organization.
 
 By assessing their current stage within this maturity model, organizations can identify areas for improvement and develop a roadmap for advancing their MLOps capabilities.
+
+For more information on the maturity model, visit [Microsoft's MLOps maturity model](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model).
