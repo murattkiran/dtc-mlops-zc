@@ -75,6 +75,8 @@ What is the value of the `min_samples_split` parameter:
 * 8
 * 10
 
+![minsamplessplit](images/mss.png)
+
 The answer is **2**
 
 
@@ -122,6 +124,8 @@ What's the best validation RMSE that you got?
 * 5.818
 * 6.336
 
+![RMSE](images/rmse.png)
+
 The answer is **5.335**
 
 
@@ -143,5 +147,7 @@ What is the test RMSE of the best model?
 * **5.567**
 * 6.061
 * 6.568
+
+![Best Model](images/best_model.png)
 
 The answer is **5.567**
