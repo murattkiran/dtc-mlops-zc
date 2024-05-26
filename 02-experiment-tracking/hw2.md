@@ -13,7 +13,8 @@ For this we recommend creating a separate Python environment, for example, you c
 Once you installed the package, run the command `mlflow --version` and check the output.
 
 What's the version that you have?
-**2.13.0**
+
+The answer is **2.13.0**
 
 
 
@@ -46,6 +47,8 @@ How many files were saved to `OUTPUT_FOLDER`?
 * **4**
 * 7
 
+The answer is **4**
+
 
 ## Q3. Train a model with autolog
 
@@ -71,6 +74,8 @@ What is the value of the `min_samples_split` parameter:
 * 4
 * 8
 * 10
+
+The answer is **2**
 
 
 ## Q4. Launch the tracking server locally
@@ -117,6 +122,8 @@ What's the best validation RMSE that you got?
 * 5.818
 * 6.336
 
+The answer is **5.335**
+
 
 ## Q6. Promote the best model to the model registry
 
@@ -136,3 +143,5 @@ What is the test RMSE of the best model?
 * **5.567**
 * 6.061
 * 6.568
+
+The answer is **5.567**
